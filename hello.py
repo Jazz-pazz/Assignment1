@@ -1,4 +1,4 @@
 print("Hello World from assessment1")
-name - Jagrati
+name - jagrati
 print(name)
 
